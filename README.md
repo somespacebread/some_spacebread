@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baconisgood2eat
 - 👀 I’m interested in valve games game development modded discord clients
-- 🌱 I’m currently learning robotics
+- 🌱 I’m currently learning audio stuff
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: baconisgood2eat#0386
 
